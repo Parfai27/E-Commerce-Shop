@@ -1,4 +1,5 @@
 E-commerce Web Application
+
 Project Overview
 This project is a Mini Project for the Web Technology & Internet (INSY-413) course at the Faculty of Information Technology. It involves developing a simple e-commerce web application using Spring Boot for the backend and Thymeleaf for the frontend. The application supports both customers and admins, fulfilling the following user stories:
 User Stories
@@ -14,15 +15,6 @@ Admin:
 Add new products and manage existing ones.
 View orders and update their status.
 
-
-
-Submission Details
-
-Due Date: 18 May 2025
-Course: Web Technology & Internet (INSY-413)
-Faculty: Faculty of Information Technology
-GitHub Repository: To be shared publicly and submitted via Google Classroom at:https://classroom.google.com/c/Nzc3NTAxMTgwNjMw/a/Nzc3NTAxNDA1NjEz/details
-
 Technologies Stack
 
 Backend: Spring Boot, Spring Data JPA, Spring Security
@@ -32,16 +24,14 @@ Database: MySQL or PostgreSQL
 Build Tool: Maven
 
 Features
-Backend (Spring Boot) - 7 Points
-
+Backend (Spring Boot) 
 Role-based access control with USER and ADMIN roles using Spring Security.
 CRUD APIs for product management with entities (Product) and repositories.
 Order management APIs (place orders, view history) with entities (Order) and relationships.
 RESTful APIs for frontend interaction, using proper HTTP methods (GET, POST, PUT, DELETE) with JSON responses.
 Server-side validation using Spring validations.
 
-Frontend (Thymeleaf) - 18 Points
-
+Frontend (Thymeleaf) 
 UI components for product browsing, shopping cart, order management, and user authentication.
 Styled with Bootstrap for a responsive design.
 Integration with backend APIs to fetch products, authenticate users, and manage orders.
@@ -49,7 +39,7 @@ Login and signup forms integrated with Spring Security.
 Features to add/remove products to/from the cart, calculate totals, and handle checkout.
 Management of static resources (CSS, JavaScript) for styling and interactivity.
 
-Additional Requirements - 15 Points
+Additional Requirements 
 
 Error handling mechanisms for both backend and frontend.
 Display meaningful error messages to users.
@@ -172,8 +162,4 @@ Open a pull request.
 
 License
 This project is licensed under the MIT License.
-Submission
-
-The source code and documentation are hosted publicly on GitHub.
-The repository link has been submitted via Google Classroom as per the instructions.
 
