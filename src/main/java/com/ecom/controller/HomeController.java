@@ -88,10 +88,13 @@ public class HomeController {
 		return "index";
 	}
 
-	@GetMapping("/signin")
+	@GetMapping({"/signin", "/login"})
 	public String login() {
 		return "login";
 	}
+
+
+
 
 	@GetMapping("/register")
 	public String register() {
