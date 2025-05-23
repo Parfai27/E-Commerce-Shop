@@ -145,6 +145,15 @@ Push to Heroku: git push heroku main.
 
 Alternatively, deploy to AWS or Azure following their respective guides.
 
+I deployed by Program using render A free of charge service and used postgres.
+
+the link to the service us the following: 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+https://e-commerce-shop-3cq7.onrender.com/
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Error Handling
 
 Backend: Custom exceptions and @ControllerAdvice for global error handling.
